@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/GridControlLocalization/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/GridControlLocalization/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/GridControlLocalization/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/GridControlLocalization/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to Translate the Grid's UI via Localizer
 
 
